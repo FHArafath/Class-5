@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif ;
+}
+
+    /* HEADER SECTION  */
+
+header {
+    width: 1280px;
+    height: 785px;
+    background: #FEFFF5;
+}
+
+.heading img {
+    width: 100px;
+    height: 100px;
+    padding: 33px 594px 27px 586px;
+}
+.heading h1 {
+    color: #0A8080;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.heading p {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.heading a {
+    width: 150px;
+    height: 43px;
+    margin: 27px 570px 23px 560px;
+    padding: 8px 39px 8px 40px;
+    border-radius: 10px;
+    background-color: #0A8080;
+    color: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.20);
+    font-size: 18px;
+    font-weight: 700;
+    box-sizing: border-box;
+    text-decoration: none;
+    display: block;
+}
+.blogimage img {
+    width: 601px;
+    height: 328px;
+    margin: 23px 339px 7px 340px;
+    display: block;
+}
+
+    /* CONTENT */
+
+main h2 {
+    width: 1280px;
+    color: #0A8080;
+    text-align: center;
+    margin: 65px 0 78px 0; 
+    font-size: 36px;
+    font-weight: 700;
+}
+
+    /* first section */
+
+.firstblog {
+    width: 942px;
+    height: 239px;
+    margin: 0 0 60px 180px;
+    border-radius: 10px;
+    background: #FEFFF5;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+}
+.firstblog h3 {
+    color: #000;
+    padding: 43px 0 16px 39px;
+    font-size: 24px;
+    font-weight: 700;
+    display: inline-block;
+}
+.firstblog p {
+    width: 791px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 39px;
+    padding-bottom: 22px;
+}
+.firstblog a {
+    width: 150px;
+    height: 43px;
+    padding: 8px 26px;
+    margin: 0 0 31px 39px;
+    color: #FFF;
+    border-radius: 10px;
+    background: #0A8080;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.20);
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: block;
+}
+
+    /* second section */
+
+.secondblog {
+    width: 942px;
+    height: 239px;
+    margin: 0 0 60px 180px;
+    border-radius: 10px;
+    background: #FEFFF5;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+}
+.secondblog h3 {
+    color: #000;
+    padding: 43px 0 16px 39px;
+    font-size: 24px;
+    font-weight: 700;
+    display: inline-block;
+}
+.secondblog p {
+    width: 791px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 39px;
+    padding-bottom: 22px;
+}
+.secondblog a {
+    width: 150px;
+    height: 43px;
+    padding: 8px 26px;
+    margin: 0 0 31px 39px;
+    color: #FFF;
+    border-radius: 10px;
+    background: #0A8080;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.20);
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: block;
+}
+
+    /* third section */
+
+.thirdblog {
+    width: 942px;
+    height: 239px;
+    margin: 0 0 60px 180px;
+    border-radius: 10px;
+    background: #FEFFF5;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+}
+.thirdblog h3 {
+    color: #000;
+    padding: 43px 0 16px 39px;
+    font-size: 24px;
+    font-weight: 700;
+    display: inline-block;
+}
+.thirdblog p {
+    width: 791px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 39px;
+    padding-bottom: 22px;
+}
+.thirdblog a {
+    width: 150px;
+    height: 43px;
+    padding: 8px 26px;
+    margin: 0 0 31px 39px;
+    color: #FFF;
+    border-radius: 10px;
+    background: #0A8080;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.20);
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: block;
+}
+
+    /* FOOTER SECTION  */
+
+footer {
+    width: 1280px;
+    height: 54px;
+    background: #0A8080;
+}
+
+footer p {
+    padding: 13px 0 14px 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}

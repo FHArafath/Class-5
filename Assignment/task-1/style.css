@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+    /* HEADER SECTION */
+header {
+    background-color:#1C3180 ;
+    max-width: 1280px;
+    max-height: 150px;
+    border-bottom: 9px solid #FE630E;
+}
+.heading h1 {
+    padding: 38px 0 37px 0;
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 75px;
+    text-align: center;
+}
+
+    /* CONTENT  */
+
+main {
+    max-width: 1280px;
+    background-color: #FFFFFF;
+}
+
+.hero h2{
+    padding: 80px 0 26px 156px;
+    color: #000;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.hero img {
+    width: 968px;
+    height: 439px;
+    margin-left: 145px;
+}
+
+.hero p {
+    padding: 32px 0 81px 156px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.underline {
+    color: #FE630E;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+.bold {
+    color: #000;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+    /* FOOTER SECTION  */
+
+footer {
+    max-width: 1280px;
+    max-height: 480px;
+    background-color: #1C3180;
+}
+
+.end h2 {
+    padding: 67px 0 0 156px;
+    color: #FE630E;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.end p {
+    padding: 44px 156px 0 156px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.w-bold {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.button-1 {
+    box-sizing: border-box;
+    margin: 40px 0 68px 156px;
+    padding: 17px 22px;
+    background-color: #FE630E;
+    color: #FFFFFF;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.button-2 {
+    box-sizing: border-box;
+    margin: 40px 0 68px 17px;
+    padding: 17px 22px;
+    background-color: #FFFFFF;
+    color: #1C3180;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+
